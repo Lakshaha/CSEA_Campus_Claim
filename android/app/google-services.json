@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434182527652",
+    "project_id": "campus-commute-4e1e4",
+    "storage_bucket": "campus-commute-4e1e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434182527652:android:83550ac70943dd896da431",
+        "android_client_info": {
+          "package_name": "com.example.campus_commute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkeY6LLa9wXqfSDWz5iXCHtufg3H2f0Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
